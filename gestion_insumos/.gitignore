@@ -1,0 +1,17 @@
+# Ignorar archivos de caché del sistema
+*.log
+*.tmp
+
+# Ignorar configuraciones locales de XAMPP o bases de datos
+/config.php
+/db.php
+
+# Ignorar archivos de configuración de entornos de desarrollo
+.vscode/
+.idea/
+
+# Ignorar el directorio de dependencias de Composer
+/vendor/
+
+# Ignorar el archivo env
+.env
